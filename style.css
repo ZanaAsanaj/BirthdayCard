@@ -8,7 +8,6 @@ body {
     background-color: #5caaee;
 }
 .card {
-    border: 1px solid blue;
     width: 640px;
     height: 400px;
     position: absolute;
